@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+D:\学科建设\网络嗅探器\ConsoleApplication1\Sniffer\SkinPPWTL.h(90,3): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  adp.cpp
+  filter.cpp
+  Sniffer.cpp
+  Sniffer_1.cpp
+D:\学科建设\网络嗅探器\ConsoleApplication1\Sniffer\Sniffer_1.cpp(343,10): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学科建设\网络嗅探器\ConsoleApplication1\Sniffer\Sniffer_1.cpp(345,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学科建设\网络嗅探器\ConsoleApplication1\Sniffer\Sniffer_1.cpp(346,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学科建设\网络嗅探器\ConsoleApplication1\Sniffer\Sniffer_1.cpp(347,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学科建设\网络嗅探器\ConsoleApplication1\Sniffer\Sniffer_1.cpp(349,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\学科建设\网络嗅探器\ConsoleApplication1\Sniffer\Sniffer_1.cpp(412,10): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
+  LINK : 没有找到 D:\学科建设\网络嗅探器\ConsoleApplication1\Debug\Sniffer.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Sniffer.vcxproj -> D:\学科建设\网络嗅探器\ConsoleApplication1\Debug\Sniffer.exe
